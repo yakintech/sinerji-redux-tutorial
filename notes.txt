@@ -1,0 +1,11 @@
+https://redux.js.org
+https://react-redux.js.org/
+
+
+
+
+REDUX KAVRAMLAR
+
+STORE
+ACTION
+COMBINE (combine reducers)
